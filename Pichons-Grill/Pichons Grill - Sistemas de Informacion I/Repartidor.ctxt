@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Repartidor
+comment1.params=nombre\ telefono
+comment1.target=Repartidor(java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ pedidosCompletados()
+comment11.params=pedido
+comment11.target=void\ recibirPedido(Pedido)
+comment2.params=
+comment2.target=java.lang.String\ getEstado()
+comment3.params=nuevoEstado
+comment3.target=void\ setEstado(java.lang.String)
+comment4.params=
+comment4.target=void\ verDetallesPedidoPendiente()
+comment5.params=
+comment5.target=void\ marcarPedidoCompletado()
+comment6.params=
+comment6.target=void\ marcarPedidoProgreso()
+comment7.params=
+comment7.target=void\ notificarCliente()
+comment8.params=
+comment8.target=void\ notificarCaja()
+comment9.params=
+comment9.target=Pedido\ getPedidoEnProgresoActual()
+numComments=12

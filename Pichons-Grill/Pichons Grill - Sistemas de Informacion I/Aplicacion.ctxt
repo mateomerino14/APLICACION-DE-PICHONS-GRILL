@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Aplicacion
+comment1.params=args
+comment1.target=void\ Main(java.lang.String[])
+comment2.params=
+comment2.target=Menu\ getMenu()
+comment3.params=
+comment3.target=Carrito\ getCliente()
+comment4.params=
+comment4.target=void\ setProductos()
+numComments=5

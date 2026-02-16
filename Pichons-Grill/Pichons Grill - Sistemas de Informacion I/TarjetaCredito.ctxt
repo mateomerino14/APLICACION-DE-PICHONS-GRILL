@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TarjetaCredito
+comment1.params=pedido
+comment1.target=TarjetaCredito(Pedido)
+comment2.params=numero\ CVV\ titular\ bancoEmisor\ direccion
+comment2.target=void\ registrarDatos(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTitular()
+comment4.params=
+comment4.target=java.lang.String\ getBancoTitular()
+comment5.params=
+comment5.target=java.lang.String\ getDireccionFacturacion()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=QR
+comment1.params=pedido
+comment1.target=QR(Pedido)
+comment2.params=fechaEmision\ fechaExpiracion\ monto\ imagen\ bancoEmisor
+comment2.target=void\ crearQR(java.time.LocalDateTime,\ java.time.LocalDateTime,\ double,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.time.LocalDateTime\ getFechaEmision()
+comment4.params=
+comment4.target=java.time.LocalDateTime\ getFechaExpiracion()
+comment5.params=
+comment5.target=double\ getMonto()
+comment6.params=
+comment6.target=java.lang.String\ getImagenQR()
+comment7.params=
+comment7.target=java.lang.String\ getBancoEmisor()
+numComments=8

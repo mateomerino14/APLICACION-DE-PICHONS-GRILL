@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Cajero
+comment1.params=nombre\ telefono\ idCajero\ caja
+comment1.target=Cajero(java.lang.String,\ java.lang.String,\ java.lang.String,\ Caja)
+comment10.params=
+comment10.target=java.util.ArrayList\ ordenarPedidosPorCompletadosPendientes()
+comment2.params=caja
+comment2.target=void\ designarCaja(Caja)
+comment3.params=
+comment3.target=java.lang.String\ getIdCajero()
+comment4.params=nuevoId
+comment4.target=void\ setIdCajero(java.lang.String)
+comment5.params=
+comment5.target=void\ verPagosDelDia()
+comment6.params=
+comment6.target=void\ verContactosDelCliente()
+comment7.params=repartidor
+comment7.target=void\ agregarRepartidor(Repartidor)
+comment8.params=
+comment8.target=void\ asignarPedidoRepartidor()
+comment9.params=
+comment9.target=void\ notificarRepartidor()
+numComments=11

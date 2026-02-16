@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Efectivo
+comment1.params=pedido
+comment1.target=Efectivo(Pedido)
+comment2.params=repartidor
+comment2.target=void\ asignarRepartidor(Repartidor)
+comment3.params=
+comment3.target=Repartidor\ getRepartidor()
+comment4.params=
+comment4.target=double\ getTotal()
+numComments=5
